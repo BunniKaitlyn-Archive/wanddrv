@@ -1,0 +1,3 @@
+[submodule "ViGEmBus"]
+	path = ViGEmBus
+	url = https://github.com/ViGEm/ViGEmBus.git
